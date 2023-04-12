@@ -1,0 +1,21 @@
+body{
+    background-image: url("/bg2.jpg");
+}
+
+h1{
+    text-align: center;
+    background-color: chartreuse;
+}
+
+h3{
+    text-align: center;
+}
+
+.college{
+    text-align: left;
+}
+
+h2{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
